@@ -1,0 +1,82 @@
+export const fakeUser = {
+    name: 'Nguyễn Huy Hiếu',
+    username: 'hieunguyen',
+    country: 'Vietnam',
+    dateJoined: '2021-09-01',
+    flowers: [2, 3, 4, 5],
+    flowersReceived: [2, 3, 4, 5],
+    hearts: 5,
+    gem: 500,
+    exp: 1200,
+    numberOfTrophies: 8,
+    streak: 5,
+    rank: 1,
+    avatar: 'https://fastly.picsum.photos/id/731/200/300.jpg?hmac=Fx9GInoTSfdH0XzB-TGwIOkNAM6ULVS-SQbuWn9q8nY'
+}
+
+export const OtherFakeUsers = [
+    {
+        id: 2,
+        name: 'Trần Văn A',
+        username: 'tranvana',
+        country: 'Vietnam',
+        dateJoined: '2021-09-01',
+        flowers: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+        flowersReceived: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+        hearts: 5,
+        gem: 500,
+        exp: 1200,
+        numberOfTrophies: 8,
+        streak: 5,
+        rank: 1,
+        avatar: 'https://fastly.picsum.photos/id/731/200/300.jpg?hmac=Fx9GInoTSfdH0XzB-TGwIOkNAM6ULVS-SQbuWn9q8nY'
+    },
+    {
+        id: 3,
+        name: 'Trần Văn B',
+        username: 'tranvanb',
+        country: 'Vietnam',
+        dateJoined: '2021-09-01',
+        flowers: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+        flowersReceived: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+        hearts: 5,
+        gem: 500,
+        exp: 1200,
+        numberOfTrophies: 8,
+        streak: 5,
+        rank: 1,
+        avatar: 'https://fastly.picsum.photos/id/731/200/300.jpg?hmac=Fx9GInoTSfdH0XzB-TGwIOkNAM6ULVS-SQbuWn9q8nY'
+    },
+    {
+        id: 4,
+        name: 'Trần Văn C',
+        username: 'tranvanc',
+        country: 'Vietnam',
+        dateJoined: '2021-09-01',
+        flowers: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+        flowersReceived: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+        hearts: 5,
+        gem: 500,
+        exp: 1200,
+        numberOfTrophies: 8,
+        streak: 5,
+        rank: 1,
+        avatar: 'https://fastly.picsum.photos/id/731/200/300.jpg?hmac=Fx9GInoTSfdH0XzB-TGwIOkNAM6ULVS-SQbuWn9q8nY'
+    },
+    {
+        id: 5,
+        name: 'Trần Văn D',
+        username: 'tranvand',
+        country: 'Vietnam',
+        dateJoined: '2021-09-01',
+        flowers: [2, 3, 4, 5],
+        flowersReceived: [2, 3, 4, 5],
+        hearts: 5,
+        gem: 500,
+        exp: 1200,
+        numberOfTrophies: 8,
+        streak: 5,
+        rank: 1,
+        avatar: 'https://fastly.picsum.photos/id/731/200/300.jpg?hmac=Fx9GInoTSfdH0XzB-TGwIOkNAM6ULVS-SQbuWn9q8nY'
+    }
+]
